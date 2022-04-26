@@ -8,7 +8,7 @@ Python is a popular, easy-to-learn, and very powerful programming language, whic
 04. [x] [04-Control-Flow](04-Control-Flow)
 05. [x] [05-Lists](05-Lists)
 06. [x] [06-Functions](06-Functions)
-90. [x] [90-Useful-Functions](90-Useful-Functions)
+90. [x] [90-Useful-Functions-List](90-Useful-Functions-List)
 
 
 
