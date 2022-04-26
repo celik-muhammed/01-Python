@@ -2,7 +2,7 @@
 from datetime import date, datetime
 
 
-def my_age():
+def age_calculator():
 
     birth = input("Your Birth Date: (DAY.MOON.YEAR) ")
 
@@ -17,4 +17,4 @@ def my_age():
 
 
 if __name__ == "__main__":
-    my_age()
+    age_calculator()
