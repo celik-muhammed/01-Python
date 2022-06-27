@@ -1,8 +1,9 @@
+### [Go to Home Page](https://github.com/celik-muhammed)
+
 # 01-Python-for-Beginners
 
 Python is a popular, easy-to-learn, and very powerful programming language, which is used in software and web development, data science, machine learning, and many other fields. we’ll cover the basic concepts of Python, as well as build real-life projects and solve different coding challenges.[^1]
 
-00. [ ] [Go to Main Page - 00-Index-of-GitHub-Public-Projects-Repository-Logs][mainPage]
 01. [x] [01-Basic-Concepts](01-Basic-Concepts)
 02. [x] [02-Strings](02-Strings)
 03. [x] [03-Variables](03-Variables)
