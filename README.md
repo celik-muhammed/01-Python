@@ -5,13 +5,11 @@
 03. [Intermediate Python](./03-Intermediate-Python/)
 04. [Python Core](./04-Python-Core/)
 
-<br>
 
 ## [hackerrank.com](https://www.hackerrank.com/)
 
 01. [HackerRank Python Answers](./HackerRank-Python-Answers.ipynb)
 
-<br>
 
 ## [codewars.com](https://www.codewars.com/)
 
