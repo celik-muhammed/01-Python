@@ -9,10 +9,10 @@
 
 ## [hackerrank.com](https://www.hackerrank.com/)
 
-01. [HackerRank Python Answers](#)
+01. [HackerRank Python Answers](./HackerRank-Python-Answers.ipynb)
 
 <br>
 
 ## [codewars.com](https://www.codewars.com/)
 
-01. [Codewars Python Answers](#)
+01. [Codewars Python Answers](./Codewars-Python-Answers.ipynb)
