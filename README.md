@@ -14,3 +14,5 @@
 ## [codewars.com](https://www.codewars.com/)
 
 01. [Codewars Python Answers](./Codewars-Python-Answers.ipynb)
+
+### [Certificates](https://celik-muhammed.github.io/Certificates/ "Certificates") 
