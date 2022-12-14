@@ -15,4 +15,10 @@
 
 01. [Codewars Python Answers](./Codewars-Python-Answers.ipynb)
 
+
+## [leetcode.com](https://leetcode.com/)
+
+01. [Leetcode Python Answers](./LeetCode-Python-Answers.ipynb)
+
+
 ### [Certificates](https://celik-muhammed.github.io/Certificates/ "Certificates") 
