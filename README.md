@@ -4,8 +4,8 @@
 <tbody>
 <tr>
   <td><a href="./HackerRank-Python-Answers.ipynb">01. HackerRank Python Solutions</a></td>
-  <td><a href="./LeetCode/LeetCode-Python-Answers.ipynb">02. Leetcode Python Solutions</a></td>
-  <td><a href="./Codewars-Python-Answers.ipynb">03. Codewars Python Solutions</a></td>
+  <td><a href="./LeetCode/LeetCode-Python-Answers.ipynb">01. Leetcode Python Solutions</a></td>
+  <td><a href="./Codewars-Python-Answers.ipynb">01. Codewars Python Solutions</a></td>
 </tr>
 <tr>
   <td></td>
