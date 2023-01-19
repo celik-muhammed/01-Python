@@ -4,12 +4,12 @@
 <tbody>
 <tr>
   <td><a href="./HackerRank-Python-Answers.ipynb">01. HackerRank Python Solutions</a></td>
-  <td><a href="./LeetCode/LeetCode-Python-Answers.ipynb">01. Leetcode Python Solutions</a></td>
+  <td><a href="./LeetCode/LeetCode_Top_Interview_Questions_Python_Solutions.ipynb">01. Leetcode Top Interview Questions Python Solutions</a></td>
   <td><a href="./Codewars-Python-Answers.ipynb">01. Codewars Python Solutions</a></td>
 </tr>
 <tr>
   <td></td>
-  <td><a href="./LeetCode/LeetCode_75_Study_Plan_to_Ace_Interviews.ipynb">02. Leetcode Python Solutions</a></td>
+  <td><a href="./LeetCode/LeetCode_75_Study_Plan_to_Ace_Interviews.ipynb">02. LeetCode 75 Study Plan to Ace Interviews Python Solutions</a></td>
   <td></td>
 </tr>
 </tbody>
