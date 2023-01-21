@@ -20,11 +20,10 @@
 
 
 ## [sololearn.com](https://www.sololearn.com/)
+  01. [Python for Beginners](./01-Python-for-Beginners/)
+  02. [Python Data Structures](./02-Python-Data-Structures/)
+  03. [Intermediate Python](./03-Intermediate-Python/)
+  04. [Python Core](./04-Python-Core/)
 
-01. [Python for Beginners](./01-Python-for-Beginners/)
-02. [Python Data Structures](./02-Python-Data-Structures/)
-03. [Intermediate Python](./03-Intermediate-Python/)
-04. [Python Core](./04-Python-Core/)
 
-
-### [Certificates](https://celik-muhammed.github.io/Certificates/ "Certificates") 
+### [Certificates](https://celik-muhammed.github.io/Certificates/ "Certificates")
